@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 342ee93be6b678248b350671dea7dab3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 146654
+  packageName: PolyGun Sample Pack
+  packageVersion: 3.0
+  assetPath: Assets/PolyGun/Shared/Old/Textures Old/Materials Old/White.mat
+  uploadId: 382823

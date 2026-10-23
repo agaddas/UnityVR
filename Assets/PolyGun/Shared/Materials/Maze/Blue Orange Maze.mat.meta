@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0794e6f9f320674489c2a3e03ef9f85c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 146654
+  packageName: PolyGun Sample Pack
+  packageVersion: 3.0
+  assetPath: Assets/PolyGun/Shared/Materials/Maze/Blue Orange Maze.mat
+  uploadId: 382823

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b5be891c2a93e2d4196b63cf8f9d2ce5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 146654
+  packageName: PolyGun Sample Pack
+  packageVersion: 3.0
+  assetPath: Assets/PolyGun/Shared/Old/Attachments Old/Prefabs/Attachment_VerticalGrip
+    +Flashlight.001.prefab
+  uploadId: 382823

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b6546710dbfd8f040b04227925a04ecf
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 146654
+  packageName: PolyGun Sample Pack
+  packageVersion: 3.0
+  assetPath: Assets/PolyGun/Shared/Old/Attachments Old/Prefabs/Attachment_Acog Scope.002.prefab
+  uploadId: 382823

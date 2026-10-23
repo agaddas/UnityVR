@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fdda5ad6722868f4f9ba61948a54c44e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 146654
+  packageName: PolyGun Sample Pack
+  packageVersion: 3.0
+  assetPath: Assets/PolyGun/Shared/Materials/Damascus/New Material.mat
+  uploadId: 382823

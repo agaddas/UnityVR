@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3ed5e754b09647c4fbb1fcc35cc93f15
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 146654
+  packageName: PolyGun Sample Pack
+  packageVersion: 3.0
+  assetPath: Assets/PolyGun/Shared/Old/Attachments Old/Prefabs/Attachment_VerticalGrip
+    +Laser.prefab
+  uploadId: 382823

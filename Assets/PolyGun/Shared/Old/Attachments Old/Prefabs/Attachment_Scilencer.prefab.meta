@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b1f0e4353a482ee4c8ecce57b5241eec
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 146654
+  packageName: PolyGun Sample Pack
+  packageVersion: 3.0
+  assetPath: Assets/PolyGun/Shared/Old/Attachments Old/Prefabs/Attachment_Scilencer.prefab
+  uploadId: 382823

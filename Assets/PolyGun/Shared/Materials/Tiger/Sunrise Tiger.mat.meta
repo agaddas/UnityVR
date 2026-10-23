@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 91ba74226722c7b44ba11ab506e635f0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 146654
+  packageName: PolyGun Sample Pack
+  packageVersion: 3.0
+  assetPath: Assets/PolyGun/Shared/Materials/Tiger/Sunrise Tiger.mat
+  uploadId: 382823

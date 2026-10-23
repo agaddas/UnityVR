@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 71f4854cdb0e74b46bd5cbc5daeefbbc
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 146654
+  packageName: PolyGun Sample Pack
+  packageVersion: 3.0
+  assetPath: Assets/PolyGun/Shared/Attachments/Prefabs/Attachment_Red dot Sight.prefab
+  uploadId: 382823

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7e928ba743300e8418a73f52e6729377
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 146654
+  packageName: PolyGun Sample Pack
+  packageVersion: 3.0
+  assetPath: Assets/PolyGun/Shared/Materials/Mosaic/Forest Mosaic.mat
+  uploadId: 382823

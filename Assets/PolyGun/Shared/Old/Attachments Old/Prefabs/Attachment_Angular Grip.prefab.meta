@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8a92c48884ae7c248a9757ffaa126ce7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 146654
+  packageName: PolyGun Sample Pack
+  packageVersion: 3.0
+  assetPath: Assets/PolyGun/Shared/Old/Attachments Old/Prefabs/Attachment_Angular
+    Grip.prefab
+  uploadId: 382823

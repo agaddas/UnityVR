@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 39e91dc11b238fe4fa0d7c425f4c072d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 146654
+  packageName: PolyGun Sample Pack
+  packageVersion: 3.0
+  assetPath: Assets/PolyGun/Shared/Particle Systems/Shell Ejection_Full Auto.prefab
+  uploadId: 382823

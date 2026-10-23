@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a60a8733602a2784f981cb7cc03c9f6d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 146654
+  packageName: PolyGun Sample Pack
+  packageVersion: 3.0
+  assetPath: Assets/PolyGun/Shared/Old/Attachments Old/Prefabs/Attachment_Laser Sight.prefab
+  uploadId: 382823

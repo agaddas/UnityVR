@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a315fb879e06e144ea66ac32cdb2727f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 146654
+  packageName: PolyGun Sample Pack
+  packageVersion: 3.0
+  assetPath: Assets/PolyGun/Shared/Particle Systems/Smoke.prefab
+  uploadId: 382823

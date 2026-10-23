@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3dc26b4a387dd6f40a99ef292b119abd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 146654
+  packageName: PolyGun Sample Pack
+  packageVersion: 3.0
+  assetPath: Assets/PolyGun/Shared/Materials/Digital/Navy Digital.mat
+  uploadId: 382823

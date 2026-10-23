@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4582087a0c9794142aeb0422bc853495
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 146654
+  packageName: PolyGun Sample Pack
+  packageVersion: 3.0
+  assetPath: Assets/PolyGun/Shared/Attachments/Prefabs/Attachment_Flashlight.prefab
+  uploadId: 382823
